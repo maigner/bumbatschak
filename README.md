@@ -1,1 +1,1 @@
-# bumbatschak
+# (c) bumbatschak
